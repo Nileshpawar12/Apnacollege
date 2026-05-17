@@ -1,5 +1,7 @@
 # Apnacollege
 This is my first git repositoty
-auther :- Nilesh Pawar
+auther :- Nilesh Pawar -apanacollege
+Clour code 
+<Br>/Html code
 <Br>
-git practices 
+git practices
